@@ -1,3 +1,3 @@
-🔭 I’m currently working on 52g Studio
+🔭 I’m currently working on GenAI application projects.
 
 💬 Ask me about LLM application, Image/Video signal processing
